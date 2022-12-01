@@ -1,1 +1,1 @@
-Hello world programs in python.
+README file for first python project
